@@ -1,3 +1,3 @@
-# Powered By @BikashHalder @AdityaHalder
+# Powered By @NiketRawat @NiketRawat
 
 from .config import *
