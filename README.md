@@ -1,10 +1,9 @@
-### Powered By @BikashHalder & @AdityaHalder 
+### Powered By @NiketRawat & @KitkatNiket
 
-### Join @BikashGadgetsTech For More Update
+### Join @NiketRawat For More Update
 
-### Join @AdityaCheats For Hack
 
-### Join Our Chats @Bgt_Chat & @Adityadiscus 
+### Join Our Chats @Niket & @Nijet 
 
 
 ### Powered By [@BikashHalder](https://t.me/Bikashhalder)
@@ -38,7 +37,7 @@
 
 ### Deploy To Heroku
 
-[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/BikashHalderNew/Bgtplayer)
+[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/niketrawat/Kattarassist)
 
 ## VPS DEPLOY                                                                                          
 💥 𝐎𝐧𝐥𝐲 𝐅𝐨𝐫 𝐅𝐢𝐫𝐬𝐭 𝐓𝐢𝐦𝐞 (𝐕𝐏𝐒) 💞
